@@ -70,39 +70,31 @@ A visual sales analytics dashboard containing KPI cards, charts, and key busines
 
 ## 📊 Dashboard Highlights
 
-The dashboard provides a visual overview of:
-
-- Overall revenue and profit performance
-- Regional performance
-- Category performance
-- Salesperson performance
-- Payment method performance
-- Key business KPIs
+The project includes a six-visual dashboard analysis covering category, salesperson, regional, and payment-method performance.
 
 ### Revenue by Category
 
-![Revenue by Category](Screenshots/Revenue_by_Category Dashboard.png)
+![Revenue by Category](screenshots/Revenue_by_Category%20Dashboard.png)
 
 ### Profit by Category
 
-![Profit by Category](Screenshots/Profit_by_Category Dashboard.png)
+![Profit by Category](screenshots/Profit_by_Category%20Dashboard.png)
 
 ### Revenue by Salesperson
 
-![Revenue by Salesperson](Screenshots/Revenue_by_Salesperson Dashboard.png)
+![Revenue by Salesperson](screenshots/Revenue_by_Sales%20Dashboard.png)
 
 ### Profit by Salesperson
 
-![Profit by Salesperson](Screenshots/Profit_by_Salesperson Dashboard.png)
+![Profit by Salesperson](screenshots/Profit_by_Sales%20Dashboard.png)
 
 ### Revenue by Region
 
-![Revenue by Region](Screenshots/Revenue_by_Region Dashboard.png)
+![Revenue by Region](screenshots/Revenue_by_Region%20Dashboard.png)
 
 ### Revenue by Payment Method
 
-![Revenue by Payment Method](Screenshots/Revenue_by_Payment_Method Dashboard.png)
-
+![Revenue by Payment Method](screenshots/Revenue_by_Payment%20Method%20Dashboard.png)
 
 
 ## 🚀 Project Outcome

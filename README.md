@@ -94,7 +94,7 @@ The project includes a six-visual dashboard analysis covering category, salesper
 
 ### Revenue by Payment Method
 
-![Revenue by Payment Method](Screenshots/Revenue_by_Payment%20Method%20Dashboard.png)
+![Revenue by Payment Method](Screenshots/Revenue_by_Payment_Method%20Dashboard.png)
 
 
 ## 🚀 Project Outcome

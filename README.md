@@ -74,27 +74,27 @@ The project includes a six-visual dashboard analysis covering category, salesper
 
 ### Revenue by Category
 
-![Revenue by Category](screenshots/Revenue_by_Category%20Dashboard.png)
+![Revenue by Category](Screenshots/Revenue_by_Category%20Dashboard.png)
 
 ### Profit by Category
 
-![Profit by Category](screenshots/Profit_by_Category%20Dashboard.png)
+![Profit by Category](Screenshots/Profit_by_Category%20Dashboard.png)
 
 ### Revenue by Salesperson
 
-![Revenue by Salesperson](screenshots/Revenue_by_Sales%20Dashboard.png)
+![Revenue by Salesperson](Screenshots/Revenue_by_Sales%20Dashboard.png)
 
 ### Profit by Salesperson
 
-![Profit by Salesperson](screenshots/Profit_by_Sales%20Dashboard.png)
+![Profit by Salesperson](Screenshots/Profit_by_Sales%20Dashboard.png)
 
 ### Revenue by Region
 
-![Revenue by Region](screenshots/Revenue_by_Region%20Dashboard.png)
+![Revenue by Region](Screenshots/Revenue_by_Region%20Dashboard.png)
 
 ### Revenue by Payment Method
 
-![Revenue by Payment Method](screenshots/Revenue_by_Payment%20Method%20Dashboard.png)
+![Revenue by Payment Method](Screenshots/Revenue_by_Payment%20Method%20Dashboard.png)
 
 
 ## 🚀 Project Outcome

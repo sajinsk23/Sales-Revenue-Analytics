@@ -82,11 +82,11 @@ The project includes a six-visual dashboard analysis covering category, salesper
 
 ### Revenue by Salesperson
 
-![Revenue by Salesperson](Screenshots/Revenue_by_Sales%20Dashboard.png)
+![Revenue by Salesperson](Screenshots/Revenue_by_Salesperson%20Dashboard.png)
 
 ### Profit by Salesperson
 
-![Profit by Salesperson](Screenshots/Profit_by_Sales%20Dashboard.png)
+![Profit by Salesperson](Screenshots/Profit_by_Salesperson%20Dashboard.png)
 
 ### Revenue by Region
 

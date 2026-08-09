@@ -81,27 +81,27 @@ The dashboard provides a visual overview of:
 
 ### Revenue by Category
 
-![Revenue by Category](Screenshots/Revenue_by_Category.png)
+![Revenue by Category](Screenshots/Revenue_by_Category Dashboard.png)
 
 ### Profit by Category
 
-![Profit by Category](Screenshots/Profit_by_Category.png)
+![Profit by Category](Screenshots/Profit_by_Category Dashboard.png)
 
 ### Revenue by Salesperson
 
-![Revenue by Salesperson](Screenshots/Revenue_by_Salesperson.png)
+![Revenue by Salesperson](Screenshots/Revenue_by_Salesperson Dashboard.png)
 
 ### Profit by Salesperson
 
-![Profit by Salesperson](Screenshots/Profit_by_Salesperson.png)
+![Profit by Salesperson](Screenshots/Profit_by_Salesperson Dashboard.png)
 
 ### Revenue by Region
 
-![Revenue by Region](Screenshots/Revenue_by_Region.png)
+![Revenue by Region](Screenshots/Revenue_by_Region Dashboard.png)
 
 ### Revenue by Payment Method
 
-![Revenue by Payment Method](Screenshots/Revenue_by_Payment_Method.png)
+![Revenue by Payment Method](Screenshots/Revenue_by_Payment_Method Dashboard.png)
 
 
 

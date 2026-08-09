@@ -79,6 +79,30 @@ The dashboard provides a visual overview of:
 - Payment method performance
 - Key business KPIs
 
+### Revenue by Category
+
+![Revenue by Category](Revenue_by_Category%20Dashboard.png)
+
+### Profit by Category
+
+![Profit by Category](Profit_by_Category%20Dashboard.png)
+
+### Revenue by Salesperson
+
+![Revenue by Salesperson](Revenue_by_Salesperson%20Dashboard.png)
+
+### Profit by Salesperson
+
+![Profit by Salesperson](Profit_by_Salesperson%20Dashboard.png)
+
+### Revenue by Region
+
+![Revenue by Region](Revenue_by_Region%20Dashboard.png)
+
+### Revenue by Payment Method
+
+![Revenue by Payment Method](Revenue_by_Payment_Method%20Dashboard.png)
+
 ## 🚀 Project Outcome
 
 This project demonstrates an end-to-end Excel data analytics workflow, from raw data cleaning and transformation to exploratory analysis, visualization, dashboard development, and business insight generation.
